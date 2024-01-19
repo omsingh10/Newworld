@@ -1,2 +1,6 @@
 # BankMangement system
-this will be in java 
+Author :- OM Rana Pratap Singh
+<br>
+PROJECT LANG :- JAVA
+<br>
+PROHECJ NUMBER :- 1
